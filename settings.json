@@ -8,7 +8,7 @@
   "server": {
     "ip": "KeepSurviving.aternos.me",
     "port": 57945,
-    "version": "26.3"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
@@ -18,7 +18,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "Perzuu"
     },
     "anti-afk": {
